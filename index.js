@@ -23,7 +23,7 @@ function logShout(string) {
          
          else {
       
-      if(string.toUpperCase() == string){
+      if(string.toLowerCase() == string){
            return "I love you, too."}
       }
   }
