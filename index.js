@@ -15,7 +15,7 @@ function logShout(string) {
   }
   
   function sayHiToGrandma(string) {
-      if(string == 'hello'){
+      if(string == ''.toLowerCase){
        return string} 
             else {
          return string}
