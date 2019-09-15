@@ -15,7 +15,7 @@ function logShout(string) {
   }
   
   function sayHiToGrandma(string) {
-      if(string === 'I can\'t hear you!'){
+      if(string == 'I can\'t hear you!'){
        return string} 
             else {
          return string}
